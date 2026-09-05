@@ -36,4 +36,13 @@ Adding Hijri features improved Ramadan/Eid-window RMSE by **~3% overall** — co
 
 `pandas` · `scikit-learn` · `LightGBM` · `XGBoost` · `hijri-converter` · `Plotly` · `Streamlit`
 
-## Project Structure
+## ⚖️ License & Copyright
+
+**CrescentIQ** is the original intellectual property of [Somia Moslhy Afify]. 
+
+This project is licensed under the  MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Academic & Professional Citation:**
+If you use this methodology, code, or the concept of integrating Hijri calendar proximity features for demand forecasting in your own projects, research, or commercial applications, you are required to provide proper attribution to the original author.
+
+*© 2026 Somia Moslhy Afify. All Rights Reserved.*
